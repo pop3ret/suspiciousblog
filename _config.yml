@@ -49,7 +49,7 @@ footer_links:
 copyright: "Copyright to this blog and me."
 
 # Time zone
-# timezone: null
+timezone: Europe/Madrid
 
 # Excerpt separator
 excerpt_separator: <!--more-->
